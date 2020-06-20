@@ -1,0 +1,2 @@
+r=eval(input('enter the radius of the circle:'))
+print('the area of the circle for the radius'+str(r)+'is:'+str(3.14*r**2))
